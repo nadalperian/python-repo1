@@ -1,6 +1,2 @@
-if 5 > 2:
- print("Five is greater than two!") 
-
-
-if 5 > 2:
-        print("Five is greater than two!") 
+if 7 > 3:
+    print("You are correct!")
